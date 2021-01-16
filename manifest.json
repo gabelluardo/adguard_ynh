@@ -53,7 +53,7 @@
             },
             {
                 "name": "ad_user",
-                "type": "ad_user",
+                "type": "user",
                 "ask": {
                     "en": "Enter your admin username ?",
                     "fr": "Entrez votre nom d'utilisateur ?"
@@ -62,7 +62,7 @@
             },
             {
                 "name": "ad_password",
-                "type": "ad_password",
+                "type": "password",
                 "ask": {
                     "en": "Enter your password !",
                     "fr": "Entrez votre mot de passe !"
